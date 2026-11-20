@@ -1,0 +1,42 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='740' height='410' font-family='Arial,sans-serif' fill='#182334'><rect width='100%' height='100%' fill='white'/>
+<text x='95' y='29' font-size='23'>Время сортировки случайных массивов</text>
+<text x='24' y='68' font-size='17'>мс</text>
+<text x='698' y='365' font-size='17'>N</text>
+<line x1='100' x2='690' y1='340' y2='340' stroke='#d1dbe4'/>
+<text x='31' y='345' font-size='14'>0.000</text>
+<line x1='100' x2='690' y1='289' y2='289' stroke='#d1dbe4'/>
+<text x='31' y='294' font-size='14'>0.127</text>
+<line x1='100' x2='690' y1='238' y2='238' stroke='#d1dbe4'/>
+<text x='31' y='243' font-size='14'>0.254</text>
+<line x1='100' x2='690' y1='188' y2='188' stroke='#d1dbe4'/>
+<text x='31' y='193' font-size='14'>0.381</text>
+<line x1='100' x2='690' y1='136' y2='136' stroke='#d1dbe4'/>
+<text x='31' y='141' font-size='14'>0.508</text>
+<line x1='100' x2='690' y1='85' y2='85' stroke='#d1dbe4'/>
+<text x='31' y='90' font-size='14'>0.636</text>
+<text x='88' y='365' font-size='14'>1000</text>
+<text x='151' y='365' font-size='14'>2000</text>
+<text x='341' y='365' font-size='14'>5000</text>
+<text x='658' y='365' font-size='14'>10000</text>
+<polyline fill='none' stroke='#126a98' stroke-width='3' points='105,333 168,318 358,269 675,119 '/>
+<circle cx='105' cy='333' r='4' fill='#126a98'/>
+<circle cx='168' cy='318' r='4' fill='#126a98'/>
+<circle cx='358' cy='269' r='4' fill='#126a98'/>
+<circle cx='675' cy='119' r='4' fill='#126a98'/>
+<rect x='100' y='383' width='14' height='12' fill='#126a98'/>
+<text x='121' y='395' font-size='15'>Быстрая</text>
+<polyline fill='none' stroke='#ae4b21' stroke-width='3' points='105,331 168,318 358,246 675,130 '/>
+<circle cx='105' cy='331' r='4' fill='#ae4b21'/>
+<circle cx='168' cy='318' r='4' fill='#ae4b21'/>
+<circle cx='358' cy='246' r='4' fill='#ae4b21'/>
+<circle cx='675' cy='130' r='4' fill='#ae4b21'/>
+<rect x='290' y='383' width='14' height='12' fill='#ae4b21'/>
+<text x='311' y='395' font-size='15'>Слиянием</text>
+<polyline fill='none' stroke='#23754f' stroke-width='3' points='105,333 168,323 358,271 675,143 '/>
+<circle cx='105' cy='333' r='4' fill='#23754f'/>
+<circle cx='168' cy='323' r='4' fill='#23754f'/>
+<circle cx='358' cy='271' r='4' fill='#23754f'/>
+<circle cx='675' cy='143' r='4' fill='#23754f'/>
+<rect x='480' y='383' width='14' height='12' fill='#23754f'/>
+<text x='501' y='395' font-size='15'>Пирамидальная</text>
+</svg>
